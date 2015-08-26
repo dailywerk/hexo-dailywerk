@@ -12,7 +12,7 @@ tags:
 向Mac下优秀的markdown编辑器mou致敬
 
 #### 试一试贴图
-![这是一张测试图片](/images/mahua-logo.jpg)
+![这是一张测试图片](/images/test_image_link.jpg)
 
 #### 试一试普通的列表
 * 第一行：我的第一篇博客在这里。
