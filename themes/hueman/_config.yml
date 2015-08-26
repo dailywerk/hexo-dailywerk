@@ -43,7 +43,6 @@ widgets:
 # Links
 links:
   Hexo: http://hexo.io
-  百度: http://www.baidu.com
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
@@ -53,3 +52,4 @@ favicon: /favicon.png
 google_analytics:
 fb_admins:
 fb_app_id:
+baidu_tongji: true

@@ -43,6 +43,17 @@
       .logo { background-image:url(<%= theme.logo %>); }
     </style>
   <% } %>
+  <% if (theme.baidu_tongji) { %>
+  <script type="text/javascript">
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?8f7033b4a7d47215e212bc9758be7213";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+  <% } %>
 
   <% if(theme.use_google_apis) { %>
     <link href='//fonts.googleapis.com/css?family=Titillium+Web:300,400,600' rel='stylesheet' type='text/css'>

@@ -1,9 +1,10 @@
-title: Hello World
+title: Hexo命令简单介绍
 categories:
 - 测试
 tags:
-- Hello
+- Hexo
 - 帮助
+- 测试
 ---
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
