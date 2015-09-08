@@ -1,10 +1,12 @@
 title: 使用IntelliJ IDEA
 date: 2015-08-28 10:52:09
 categories:
-- 未整理
+- IDEA
 tags:
-- 学习
-- 未整理
+- IDEA
+- Tomcat
+- Maven
+- Android
 ---
 
 ### 基本知识

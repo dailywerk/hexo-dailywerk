@@ -1,7 +1,7 @@
 title: 使用IntelliJ-IDEA 创建基于Gradle管理的android项目
 date: 2015-09-06 15:58:41
 categories:
-- Android
+- IDEA
 tags:
 - IDEA
 - Gradle
