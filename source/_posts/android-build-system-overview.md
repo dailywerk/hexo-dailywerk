@@ -17,7 +17,7 @@ Android build系统的灵活性可以让你在不需要修改应用的核心代�
 ## 详细的构建过程
 build流程中涉及多个工具和程序，它们勇于生成最终在.apk文件中用到的中间文件。如果你使用Android Studio进行开发，那每次你为项目或者模块执行Gradle的build任务时，就会走一遍完整的build流程。build流程非常灵活，然而因为大多数执行流程是可配置和可扩展的，因此理解在底层到底执行了什么动作对你（以后配置或自定义时）很有用。
 
-![Android Apps的生成过程](http://developer.android.com/images/build.png)
+![Android Apps的生成过程](/images/android-build-system.png)
 
 一个普通的build流程大概如下面所述。Build系统会合并所有roduct flavors、build types和dependencies生成的资源。如果不同目录包含同名或者同样配置的资源，将会遵循“dependencies覆盖build types，build types覆盖product flavors，product flavors覆盖main source目录”
 
